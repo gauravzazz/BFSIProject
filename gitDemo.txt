@@ -3,7 +3,7 @@ class main
 {
 public static void main(string[] args)
 {
-sytem.out.println("hii ckommiy)
+sytem.out.println("hii ckommiy");
 }
 }
 
